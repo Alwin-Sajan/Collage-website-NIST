@@ -1,3 +1,5 @@
+### To run
 
-```intall npm ```
+```intall npm ``` 
+<br>
 ``` npm run dev ```
