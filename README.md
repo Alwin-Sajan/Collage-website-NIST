@@ -1,4 +1,4 @@
-# NIST College Website Documentation
+# NIST College Website
 
 ### Live Website
 You can visit the live website at the following link: [NIST-College-Website](https://collage-website-nist.vercel.app/)
