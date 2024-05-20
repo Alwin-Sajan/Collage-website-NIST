@@ -1,5 +1,3 @@
-### To run
+### Live website link: 
 
-```intall npm ``` 
-<br>
-``` npm run dev ```
+link: https://collage-website-nist.vercel.app/
